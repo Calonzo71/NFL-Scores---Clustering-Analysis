@@ -1,0 +1,545 @@
+game_id,date,week,team,homeAway,Points_Scored,Points_Allowed,opponent
+401772510,2025-09-05T00:20Z,1,Philadelphia Eagles,home,24,20,Dallas Cowboys
+401772510,2025-09-05T00:20Z,1,Dallas Cowboys,away,20,24,Philadelphia Eagles
+401772714,2025-09-06T00:00Z,1,Los Angeles Chargers,home,27,21,Kansas City Chiefs
+401772714,2025-09-06T00:00Z,1,Kansas City Chiefs,away,21,27,Los Angeles Chargers
+401772830,2025-09-07T17:00Z,1,Atlanta Falcons,home,20,23,Tampa Bay Buccaneers
+401772830,2025-09-07T17:00Z,1,Tampa Bay Buccaneers,away,23,20,Atlanta Falcons
+401772829,2025-09-07T17:00Z,1,Cleveland Browns,home,16,17,Cincinnati Bengals
+401772829,2025-09-07T17:00Z,1,Cincinnati Bengals,away,17,16,Cleveland Browns
+401772719,2025-09-07T17:00Z,1,Indianapolis Colts,home,33,8,Miami Dolphins
+401772719,2025-09-07T17:00Z,1,Miami Dolphins,away,8,33,Indianapolis Colts
+401772720,2025-09-07T17:00Z,1,New England Patriots,home,13,20,Las Vegas Raiders
+401772720,2025-09-07T17:00Z,1,Las Vegas Raiders,away,20,13,New England Patriots
+401772718,2025-09-07T17:00Z,1,New Orleans Saints,home,13,20,Arizona Cardinals
+401772718,2025-09-07T17:00Z,1,Arizona Cardinals,away,20,13,New Orleans Saints
+401772721,2025-09-07T17:00Z,1,New York Jets,home,32,34,Pittsburgh Steelers
+401772721,2025-09-07T17:00Z,1,Pittsburgh Steelers,away,34,32,New York Jets
+401772827,2025-09-07T17:00Z,1,Washington Commanders,home,21,6,New York Giants
+401772827,2025-09-07T17:00Z,1,New York Giants,away,6,21,Washington Commanders
+401772828,2025-09-07T17:00Z,1,Jacksonville Jaguars,home,26,10,Carolina Panthers
+401772828,2025-09-07T17:00Z,1,Carolina Panthers,away,10,26,Jacksonville Jaguars
+401772832,2025-09-07T20:05Z,1,Denver Broncos,home,20,12,Tennessee Titans
+401772832,2025-09-07T20:05Z,1,Tennessee Titans,away,12,20,Denver Broncos
+401772831,2025-09-07T20:05Z,1,Seattle Seahawks,home,13,17,San Francisco 49ers
+401772831,2025-09-07T20:05Z,1,San Francisco 49ers,away,17,13,Seattle Seahawks
+401772722,2025-09-07T20:25Z,1,Green Bay Packers,home,27,13,Detroit Lions
+401772722,2025-09-07T20:25Z,1,Detroit Lions,away,13,27,Green Bay Packers
+401772723,2025-09-07T20:25Z,1,Los Angeles Rams,home,14,9,Houston Texans
+401772723,2025-09-07T20:25Z,1,Houston Texans,away,9,14,Los Angeles Rams
+401772918,2025-09-08T00:20Z,1,Buffalo Bills,home,41,40,Baltimore Ravens
+401772918,2025-09-08T00:20Z,1,Baltimore Ravens,away,40,41,Buffalo Bills
+401772810,2025-09-09T00:15Z,1,Chicago Bears,home,24,27,Minnesota Vikings
+401772810,2025-09-09T00:15Z,1,Minnesota Vikings,away,27,24,Chicago Bears
+401772936,2025-09-12T00:15Z,2,Green Bay Packers,home,27,18,Washington Commanders
+401772936,2025-09-12T00:15Z,2,Washington Commanders,away,18,27,Green Bay Packers
+401772725,2025-09-14T17:00Z,2,Cincinnati Bengals,home,31,27,Jacksonville Jaguars
+401772725,2025-09-14T17:00Z,2,Jacksonville Jaguars,away,27,31,Cincinnati Bengals
+401772834,2025-09-14T17:00Z,2,Dallas Cowboys,home,40,37,New York Giants
+401772834,2025-09-14T17:00Z,2,New York Giants,away,37,40,Dallas Cowboys
+401772835,2025-09-14T17:00Z,2,Detroit Lions,home,52,21,Chicago Bears
+401772835,2025-09-14T17:00Z,2,Chicago Bears,away,21,52,Detroit Lions
+401772724,2025-09-14T17:00Z,2,Tennessee Titans,home,19,33,Los Angeles Rams
+401772724,2025-09-14T17:00Z,2,Los Angeles Rams,away,33,19,Tennessee Titans
+401772728,2025-09-14T17:00Z,2,Miami Dolphins,home,27,33,New England Patriots
+401772728,2025-09-14T17:00Z,2,New England Patriots,away,33,27,Miami Dolphins
+401772833,2025-09-14T17:00Z,2,New Orleans Saints,home,21,26,San Francisco 49ers
+401772833,2025-09-14T17:00Z,2,San Francisco 49ers,away,26,21,New Orleans Saints
+401772727,2025-09-14T17:00Z,2,New York Jets,home,10,30,Buffalo Bills
+401772727,2025-09-14T17:00Z,2,Buffalo Bills,away,30,10,New York Jets
+401772836,2025-09-14T17:00Z,2,Pittsburgh Steelers,home,17,31,Seattle Seahawks
+401772836,2025-09-14T17:00Z,2,Seattle Seahawks,away,31,17,Pittsburgh Steelers
+401772726,2025-09-14T17:00Z,2,Baltimore Ravens,home,41,17,Cleveland Browns
+401772726,2025-09-14T17:00Z,2,Cleveland Browns,away,17,41,Baltimore Ravens
+401772729,2025-09-14T20:05Z,2,Indianapolis Colts,home,29,28,Denver Broncos
+401772729,2025-09-14T20:05Z,2,Denver Broncos,away,28,29,Indianapolis Colts
+401772730,2025-09-14T20:05Z,2,Arizona Cardinals,home,27,22,Carolina Panthers
+401772730,2025-09-14T20:05Z,2,Carolina Panthers,away,22,27,Arizona Cardinals
+401772837,2025-09-14T20:25Z,2,Kansas City Chiefs,home,17,20,Philadelphia Eagles
+401772837,2025-09-14T20:25Z,2,Philadelphia Eagles,away,20,17,Kansas City Chiefs
+401772919,2025-09-15T00:20Z,2,Minnesota Vikings,home,6,22,Atlanta Falcons
+401772919,2025-09-15T00:20Z,2,Atlanta Falcons,away,22,6,Minnesota Vikings
+401772715,2025-09-15T23:00Z,2,Houston Texans,home,19,20,Tampa Bay Buccaneers
+401772715,2025-09-15T23:00Z,2,Tampa Bay Buccaneers,away,20,19,Houston Texans
+401772811,2025-09-16T02:00Z,2,Las Vegas Raiders,home,9,20,Los Angeles Chargers
+401772811,2025-09-16T02:00Z,2,Los Angeles Chargers,away,20,9,Las Vegas Raiders
+401772937,2025-09-19T00:15Z,3,Buffalo Bills,home,31,21,Miami Dolphins
+401772937,2025-09-19T00:15Z,3,Miami Dolphins,away,21,31,Buffalo Bills
+401772842,2025-09-21T17:00Z,3,Cleveland Browns,home,13,10,Green Bay Packers
+401772842,2025-09-21T17:00Z,3,Green Bay Packers,away,10,13,Cleveland Browns
+401772733,2025-09-21T17:00Z,3,Tennessee Titans,home,20,41,Indianapolis Colts
+401772733,2025-09-21T17:00Z,3,Indianapolis Colts,away,41,20,Tennessee Titans
+401772731,2025-09-21T17:00Z,3,Minnesota Vikings,home,48,10,Cincinnati Bengals
+401772731,2025-09-21T17:00Z,3,Cincinnati Bengals,away,10,48,Minnesota Vikings
+401772732,2025-09-21T17:00Z,3,New England Patriots,home,14,21,Pittsburgh Steelers
+401772732,2025-09-21T17:00Z,3,Pittsburgh Steelers,away,21,14,New England Patriots
+401772839,2025-09-21T17:00Z,3,Philadelphia Eagles,home,33,26,Los Angeles Rams
+401772839,2025-09-21T17:00Z,3,Los Angeles Rams,away,26,33,Philadelphia Eagles
+401772840,2025-09-21T17:00Z,3,Tampa Bay Buccaneers,home,29,27,New York Jets
+401772840,2025-09-21T17:00Z,3,New York Jets,away,27,29,Tampa Bay Buccaneers
+401772841,2025-09-21T17:00Z,3,Washington Commanders,home,41,24,Las Vegas Raiders
+401772841,2025-09-21T17:00Z,3,Las Vegas Raiders,away,24,41,Washington Commanders
+401772838,2025-09-21T17:00Z,3,Carolina Panthers,home,30,0,Atlanta Falcons
+401772838,2025-09-21T17:00Z,3,Atlanta Falcons,away,0,30,Carolina Panthers
+401772734,2025-09-21T17:00Z,3,Jacksonville Jaguars,home,17,10,Houston Texans
+401772734,2025-09-21T17:00Z,3,Houston Texans,away,10,17,Jacksonville Jaguars
+401772735,2025-09-21T20:05Z,3,Los Angeles Chargers,home,23,20,Denver Broncos
+401772735,2025-09-21T20:05Z,3,Denver Broncos,away,20,23,Los Angeles Chargers
+401772736,2025-09-21T20:05Z,3,Seattle Seahawks,home,44,13,New Orleans Saints
+401772736,2025-09-21T20:05Z,3,New Orleans Saints,away,13,44,Seattle Seahawks
+401772844,2025-09-21T20:25Z,3,Chicago Bears,home,31,14,Dallas Cowboys
+401772844,2025-09-21T20:25Z,3,Dallas Cowboys,away,14,31,Chicago Bears
+401772843,2025-09-21T20:25Z,3,San Francisco 49ers,home,16,15,Arizona Cardinals
+401772843,2025-09-21T20:25Z,3,Arizona Cardinals,away,15,16,San Francisco 49ers
+401772920,2025-09-22T00:20Z,3,New York Giants,home,9,22,Kansas City Chiefs
+401772920,2025-09-22T00:20Z,3,Kansas City Chiefs,away,22,9,New York Giants
+401772812,2025-09-23T00:15Z,3,Baltimore Ravens,home,30,38,Detroit Lions
+401772812,2025-09-23T00:15Z,3,Detroit Lions,away,38,30,Baltimore Ravens
+401772938,2025-09-26T00:15Z,4,Arizona Cardinals,home,20,23,Seattle Seahawks
+401772938,2025-09-26T00:15Z,4,Seattle Seahawks,away,23,20,Arizona Cardinals
+401772632,2025-09-28T13:30Z,4,Pittsburgh Steelers,home,24,21,Minnesota Vikings
+401772632,2025-09-28T13:30Z,4,Minnesota Vikings,away,21,24,Pittsburgh Steelers
+401772739,2025-09-28T17:00Z,4,Atlanta Falcons,home,34,27,Washington Commanders
+401772739,2025-09-28T17:00Z,4,Washington Commanders,away,27,34,Atlanta Falcons
+401772740,2025-09-28T17:00Z,4,Buffalo Bills,home,31,19,New Orleans Saints
+401772740,2025-09-28T17:00Z,4,New Orleans Saints,away,19,31,Buffalo Bills
+401772846,2025-09-28T17:00Z,4,Detroit Lions,home,34,10,Cleveland Browns
+401772846,2025-09-28T17:00Z,4,Cleveland Browns,away,10,34,Detroit Lions
+401772847,2025-09-28T17:00Z,4,New England Patriots,home,42,13,Carolina Panthers
+401772847,2025-09-28T17:00Z,4,Carolina Panthers,away,13,42,New England Patriots
+401772737,2025-09-28T17:00Z,4,New York Giants,home,21,18,Los Angeles Chargers
+401772737,2025-09-28T17:00Z,4,Los Angeles Chargers,away,18,21,New York Giants
+401772845,2025-09-28T17:00Z,4,Tampa Bay Buccaneers,home,25,31,Philadelphia Eagles
+401772845,2025-09-28T17:00Z,4,Philadelphia Eagles,away,31,25,Tampa Bay Buccaneers
+401772738,2025-09-28T17:00Z,4,Houston Texans,home,26,0,Tennessee Titans
+401772738,2025-09-28T17:00Z,4,Tennessee Titans,away,0,26,Houston Texans
+401772849,2025-09-28T20:05Z,4,Los Angeles Rams,home,27,20,Indianapolis Colts
+401772849,2025-09-28T20:05Z,4,Indianapolis Colts,away,20,27,Los Angeles Rams
+401772848,2025-09-28T20:05Z,4,San Francisco 49ers,home,21,26,Jacksonville Jaguars
+401772848,2025-09-28T20:05Z,4,Jacksonville Jaguars,away,26,21,San Francisco 49ers
+401772741,2025-09-28T20:25Z,4,Kansas City Chiefs,home,37,20,Baltimore Ravens
+401772741,2025-09-28T20:25Z,4,Baltimore Ravens,away,20,37,Kansas City Chiefs
+401772742,2025-09-28T20:25Z,4,Las Vegas Raiders,home,24,25,Chicago Bears
+401772742,2025-09-28T20:25Z,4,Chicago Bears,away,25,24,Las Vegas Raiders
+401772921,2025-09-29T00:20Z,4,Dallas Cowboys,home,40,40,Green Bay Packers
+401772921,2025-09-29T00:20Z,4,Green Bay Packers,away,40,40,Dallas Cowboys
+401772813,2025-09-29T23:15Z,4,Miami Dolphins,home,27,21,New York Jets
+401772813,2025-09-29T23:15Z,4,New York Jets,away,21,27,Miami Dolphins
+401772716,2025-09-30T00:15Z,4,Denver Broncos,home,28,3,Cincinnati Bengals
+401772716,2025-09-30T00:15Z,4,Cincinnati Bengals,away,3,28,Denver Broncos
+401772939,2025-10-03T00:15Z,5,Los Angeles Rams,home,23,26,San Francisco 49ers
+401772939,2025-10-03T00:15Z,5,San Francisco 49ers,away,26,23,Los Angeles Rams
+401772633,2025-10-05T13:30Z,5,Cleveland Browns,home,17,21,Minnesota Vikings
+401772633,2025-10-05T13:30Z,5,Minnesota Vikings,away,21,17,Cleveland Browns
+401772851,2025-10-05T17:00Z,5,Indianapolis Colts,home,40,6,Las Vegas Raiders
+401772851,2025-10-05T17:00Z,5,Las Vegas Raiders,away,6,40,Indianapolis Colts
+401772744,2025-10-05T17:00Z,5,New Orleans Saints,home,26,14,New York Giants
+401772744,2025-10-05T17:00Z,5,New York Giants,away,14,26,New Orleans Saints
+401772850,2025-10-05T17:00Z,5,New York Jets,home,22,37,Dallas Cowboys
+401772850,2025-10-05T17:00Z,5,Dallas Cowboys,away,37,22,New York Jets
+401772745,2025-10-05T17:00Z,5,Philadelphia Eagles,home,17,21,Denver Broncos
+401772745,2025-10-05T17:00Z,5,Denver Broncos,away,21,17,Philadelphia Eagles
+401772852,2025-10-05T17:00Z,5,Carolina Panthers,home,27,24,Miami Dolphins
+401772852,2025-10-05T17:00Z,5,Miami Dolphins,away,24,27,Carolina Panthers
+401772743,2025-10-05T17:00Z,5,Baltimore Ravens,home,10,44,Houston Texans
+401772743,2025-10-05T17:00Z,5,Houston Texans,away,44,10,Baltimore Ravens
+401772747,2025-10-05T20:05Z,5,Arizona Cardinals,home,21,22,Tennessee Titans
+401772747,2025-10-05T20:05Z,5,Tennessee Titans,away,22,21,Arizona Cardinals
+401772746,2025-10-05T20:05Z,5,Seattle Seahawks,home,35,38,Tampa Bay Buccaneers
+401772746,2025-10-05T20:05Z,5,Tampa Bay Buccaneers,away,38,35,Seattle Seahawks
+401772854,2025-10-05T20:25Z,5,Cincinnati Bengals,home,24,37,Detroit Lions
+401772854,2025-10-05T20:25Z,5,Detroit Lions,away,37,24,Cincinnati Bengals
+401772853,2025-10-05T20:25Z,5,Los Angeles Chargers,home,10,27,Washington Commanders
+401772853,2025-10-05T20:25Z,5,Washington Commanders,away,27,10,Los Angeles Chargers
+401772922,2025-10-06T00:20Z,5,Buffalo Bills,home,20,23,New England Patriots
+401772922,2025-10-06T00:20Z,5,New England Patriots,away,23,20,Buffalo Bills
+401772814,2025-10-07T00:15Z,5,Jacksonville Jaguars,home,31,28,Kansas City Chiefs
+401772814,2025-10-07T00:15Z,5,Kansas City Chiefs,away,28,31,Jacksonville Jaguars
+401772940,2025-10-10T00:15Z,6,New York Giants,home,34,17,Philadelphia Eagles
+401772940,2025-10-10T00:15Z,6,Philadelphia Eagles,away,17,34,New York Giants
+401772634,2025-10-12T13:30Z,6,New York Jets,home,11,13,Denver Broncos
+401772634,2025-10-12T13:30Z,6,Denver Broncos,away,13,11,New York Jets
+401772856,2025-10-12T17:00Z,6,Indianapolis Colts,home,31,27,Arizona Cardinals
+401772856,2025-10-12T17:00Z,6,Arizona Cardinals,away,27,31,Indianapolis Colts
+401772750,2025-10-12T17:00Z,6,Miami Dolphins,home,27,29,Los Angeles Chargers
+401772750,2025-10-12T17:00Z,6,Los Angeles Chargers,away,29,27,Miami Dolphins
+401772751,2025-10-12T17:00Z,6,New Orleans Saints,home,19,25,New England Patriots
+401772751,2025-10-12T17:00Z,6,New England Patriots,away,25,19,New Orleans Saints
+401772748,2025-10-12T17:00Z,6,Pittsburgh Steelers,home,23,9,Cleveland Browns
+401772748,2025-10-12T17:00Z,6,Cleveland Browns,away,9,23,Pittsburgh Steelers
+401772858,2025-10-12T17:00Z,6,Carolina Panthers,home,30,27,Dallas Cowboys
+401772858,2025-10-12T17:00Z,6,Dallas Cowboys,away,27,30,Carolina Panthers
+401772857,2025-10-12T17:00Z,6,Jacksonville Jaguars,home,12,20,Seattle Seahawks
+401772857,2025-10-12T17:00Z,6,Seattle Seahawks,away,20,12,Jacksonville Jaguars
+401772855,2025-10-12T17:00Z,6,Baltimore Ravens,home,3,17,Los Angeles Rams
+401772855,2025-10-12T17:00Z,6,Los Angeles Rams,away,17,3,Baltimore Ravens
+401772859,2025-10-12T20:05Z,6,Las Vegas Raiders,home,20,10,Tennessee Titans
+401772859,2025-10-12T20:05Z,6,Tennessee Titans,away,10,20,Las Vegas Raiders
+401772752,2025-10-12T20:25Z,6,Green Bay Packers,home,27,18,Cincinnati Bengals
+401772752,2025-10-12T20:25Z,6,Cincinnati Bengals,away,18,27,Green Bay Packers
+401772749,2025-10-12T20:25Z,6,Tampa Bay Buccaneers,home,30,19,San Francisco 49ers
+401772749,2025-10-12T20:25Z,6,San Francisco 49ers,away,19,30,Tampa Bay Buccaneers
+401772923,2025-10-13T00:20Z,6,Kansas City Chiefs,home,30,17,Detroit Lions
+401772923,2025-10-13T00:20Z,6,Detroit Lions,away,17,30,Kansas City Chiefs
+401772815,2025-10-13T23:15Z,6,Atlanta Falcons,home,24,14,Buffalo Bills
+401772815,2025-10-13T23:15Z,6,Buffalo Bills,away,14,24,Atlanta Falcons
+401772717,2025-10-14T00:15Z,6,Washington Commanders,home,24,25,Chicago Bears
+401772717,2025-10-14T00:15Z,6,Chicago Bears,away,25,24,Washington Commanders
+401772941,2025-10-17T00:15Z,7,Cincinnati Bengals,home,33,31,Pittsburgh Steelers
+401772941,2025-10-17T00:15Z,7,Pittsburgh Steelers,away,31,33,Cincinnati Bengals
+401772635,2025-10-19T13:30Z,7,Jacksonville Jaguars,home,7,35,Los Angeles Rams
+401772635,2025-10-19T13:30Z,7,Los Angeles Rams,away,35,7,Jacksonville Jaguars
+401772861,2025-10-19T17:00Z,7,Chicago Bears,home,26,14,New Orleans Saints
+401772861,2025-10-19T17:00Z,7,New Orleans Saints,away,14,26,Chicago Bears
+401772754,2025-10-19T17:00Z,7,Cleveland Browns,home,31,6,Miami Dolphins
+401772754,2025-10-19T17:00Z,7,Miami Dolphins,away,6,31,Cleveland Browns
+401772755,2025-10-19T17:00Z,7,Tennessee Titans,home,13,31,New England Patriots
+401772755,2025-10-19T17:00Z,7,New England Patriots,away,31,13,Tennessee Titans
+401772753,2025-10-19T17:00Z,7,Kansas City Chiefs,home,31,0,Las Vegas Raiders
+401772753,2025-10-19T17:00Z,7,Las Vegas Raiders,away,0,31,Kansas City Chiefs
+401772862,2025-10-19T17:00Z,7,Minnesota Vikings,home,22,28,Philadelphia Eagles
+401772862,2025-10-19T17:00Z,7,Philadelphia Eagles,away,28,22,Minnesota Vikings
+401772860,2025-10-19T17:00Z,7,New York Jets,home,6,13,Carolina Panthers
+401772860,2025-10-19T17:00Z,7,Carolina Panthers,away,13,6,New York Jets
+401772757,2025-10-19T20:05Z,7,Denver Broncos,home,33,32,New York Giants
+401772757,2025-10-19T20:05Z,7,New York Giants,away,32,33,Denver Broncos
+401772756,2025-10-19T20:05Z,7,Los Angeles Chargers,home,24,38,Indianapolis Colts
+401772756,2025-10-19T20:05Z,7,Indianapolis Colts,away,38,24,Los Angeles Chargers
+401772864,2025-10-19T20:25Z,7,Dallas Cowboys,home,44,22,Washington Commanders
+401772864,2025-10-19T20:25Z,7,Washington Commanders,away,22,44,Dallas Cowboys
+401772863,2025-10-19T20:25Z,7,Arizona Cardinals,home,23,27,Green Bay Packers
+401772863,2025-10-19T20:25Z,7,Green Bay Packers,away,27,23,Arizona Cardinals
+401772924,2025-10-20T00:20Z,7,San Francisco 49ers,home,20,10,Atlanta Falcons
+401772924,2025-10-20T00:20Z,7,Atlanta Falcons,away,10,20,San Francisco 49ers
+401772816,2025-10-20T23:00Z,7,Detroit Lions,home,24,9,Tampa Bay Buccaneers
+401772816,2025-10-20T23:00Z,7,Tampa Bay Buccaneers,away,9,24,Detroit Lions
+401772826,2025-10-21T02:00Z,7,Seattle Seahawks,home,27,19,Houston Texans
+401772826,2025-10-21T02:00Z,7,Houston Texans,away,19,27,Seattle Seahawks
+401772942,2025-10-24T00:15Z,8,Los Angeles Chargers,home,37,10,Minnesota Vikings
+401772942,2025-10-24T00:15Z,8,Minnesota Vikings,away,10,37,Los Angeles Chargers
+401772760,2025-10-26T17:00Z,8,Atlanta Falcons,home,10,34,Miami Dolphins
+401772760,2025-10-26T17:00Z,8,Miami Dolphins,away,34,10,Atlanta Falcons
+401772758,2025-10-26T17:00Z,8,Cincinnati Bengals,home,38,39,New York Jets
+401772758,2025-10-26T17:00Z,8,New York Jets,away,39,38,Cincinnati Bengals
+401772868,2025-10-26T17:00Z,8,New England Patriots,home,32,13,Cleveland Browns
+401772868,2025-10-26T17:00Z,8,Cleveland Browns,away,13,32,New England Patriots
+401772867,2025-10-26T17:00Z,8,Philadelphia Eagles,home,38,20,New York Giants
+401772867,2025-10-26T17:00Z,8,New York Giants,away,20,38,Philadelphia Eagles
+401772865,2025-10-26T17:00Z,8,Carolina Panthers,home,9,40,Buffalo Bills
+401772865,2025-10-26T17:00Z,8,Buffalo Bills,away,40,9,Carolina Panthers
+401772759,2025-10-26T17:00Z,8,Baltimore Ravens,home,30,16,Chicago Bears
+401772759,2025-10-26T17:00Z,8,Chicago Bears,away,16,30,Baltimore Ravens
+401772866,2025-10-26T17:00Z,8,Houston Texans,home,26,15,San Francisco 49ers
+401772866,2025-10-26T17:00Z,8,San Francisco 49ers,away,15,26,Houston Texans
+401772869,2025-10-26T20:05Z,8,New Orleans Saints,home,3,23,Tampa Bay Buccaneers
+401772869,2025-10-26T20:05Z,8,Tampa Bay Buccaneers,away,23,3,New Orleans Saints
+401772762,2025-10-26T20:25Z,8,Denver Broncos,home,44,24,Dallas Cowboys
+401772762,2025-10-26T20:25Z,8,Dallas Cowboys,away,24,44,Denver Broncos
+401772761,2025-10-26T20:25Z,8,Indianapolis Colts,home,38,14,Tennessee Titans
+401772761,2025-10-26T20:25Z,8,Tennessee Titans,away,14,38,Indianapolis Colts
+401772925,2025-10-27T00:20Z,8,Pittsburgh Steelers,home,25,35,Green Bay Packers
+401772925,2025-10-27T00:20Z,8,Green Bay Packers,away,35,25,Pittsburgh Steelers
+401772817,2025-10-28T00:15Z,8,Kansas City Chiefs,home,28,7,Washington Commanders
+401772817,2025-10-28T00:15Z,8,Washington Commanders,away,7,28,Kansas City Chiefs
+401772943,2025-10-31T00:15Z,9,Miami Dolphins,home,6,28,Baltimore Ravens
+401772943,2025-10-31T00:15Z,9,Baltimore Ravens,away,28,6,Miami Dolphins
+401772765,2025-11-02T18:00Z,9,Cincinnati Bengals,home,42,47,Chicago Bears
+401772765,2025-11-02T18:00Z,9,Chicago Bears,away,47,42,Cincinnati Bengals
+401772871,2025-11-02T18:00Z,9,Detroit Lions,home,24,27,Minnesota Vikings
+401772871,2025-11-02T18:00Z,9,Minnesota Vikings,away,27,24,Detroit Lions
+401772872,2025-11-02T18:00Z,9,Green Bay Packers,home,13,16,Carolina Panthers
+401772872,2025-11-02T18:00Z,9,Carolina Panthers,away,16,13,Green Bay Packers
+401772764,2025-11-02T18:00Z,9,Tennessee Titans,home,20,27,Los Angeles Chargers
+401772764,2025-11-02T18:00Z,9,Los Angeles Chargers,away,27,20,Tennessee Titans
+401772763,2025-11-02T18:00Z,9,New England Patriots,home,24,23,Atlanta Falcons
+401772763,2025-11-02T18:00Z,9,Atlanta Falcons,away,23,24,New England Patriots
+401772767,2025-11-02T18:00Z,9,New York Giants,home,24,34,San Francisco 49ers
+401772767,2025-11-02T18:00Z,9,San Francisco 49ers,away,34,24,New York Giants
+401772766,2025-11-02T18:00Z,9,Pittsburgh Steelers,home,27,20,Indianapolis Colts
+401772766,2025-11-02T18:00Z,9,Indianapolis Colts,away,20,27,Pittsburgh Steelers
+401772870,2025-11-02T18:00Z,9,Houston Texans,home,15,18,Denver Broncos
+401772870,2025-11-02T18:00Z,9,Denver Broncos,away,18,15,Houston Texans
+401772873,2025-11-02T21:05Z,9,Las Vegas Raiders,home,29,30,Jacksonville Jaguars
+401772873,2025-11-02T21:05Z,9,Jacksonville Jaguars,away,30,29,Las Vegas Raiders
+401772874,2025-11-02T21:05Z,9,Los Angeles Rams,home,34,10,New Orleans Saints
+401772874,2025-11-02T21:05Z,9,New Orleans Saints,away,10,34,Los Angeles Rams
+401772768,2025-11-02T21:25Z,9,Buffalo Bills,home,28,21,Kansas City Chiefs
+401772768,2025-11-02T21:25Z,9,Kansas City Chiefs,away,21,28,Buffalo Bills
+401772926,2025-11-03T01:20Z,9,Washington Commanders,home,14,38,Seattle Seahawks
+401772926,2025-11-03T01:20Z,9,Seattle Seahawks,away,38,14,Washington Commanders
+401772818,2025-11-04T01:15Z,9,Dallas Cowboys,home,17,27,Arizona Cardinals
+401772818,2025-11-04T01:15Z,9,Arizona Cardinals,away,27,17,Dallas Cowboys
+401772944,2025-11-07T01:15Z,10,Denver Broncos,home,10,7,Las Vegas Raiders
+401772944,2025-11-07T01:15Z,10,Las Vegas Raiders,away,7,10,Denver Broncos
+401772636,2025-11-09T14:30Z,10,Indianapolis Colts,home,31,25,Atlanta Falcons
+401772636,2025-11-09T14:30Z,10,Atlanta Falcons,away,25,31,Indianapolis Colts
+401772875,2025-11-09T18:00Z,10,Chicago Bears,home,24,20,New York Giants
+401772875,2025-11-09T18:00Z,10,New York Giants,away,20,24,Chicago Bears
+401772771,2025-11-09T18:00Z,10,Miami Dolphins,home,30,13,Buffalo Bills
+401772771,2025-11-09T18:00Z,10,Buffalo Bills,away,13,30,Miami Dolphins
+401772876,2025-11-09T18:00Z,10,Minnesota Vikings,home,19,27,Baltimore Ravens
+401772876,2025-11-09T18:00Z,10,Baltimore Ravens,away,27,19,Minnesota Vikings
+401772769,2025-11-09T18:00Z,10,New York Jets,home,27,20,Cleveland Browns
+401772769,2025-11-09T18:00Z,10,Cleveland Browns,away,20,27,New York Jets
+401772772,2025-11-09T18:00Z,10,Tampa Bay Buccaneers,home,23,28,New England Patriots
+401772772,2025-11-09T18:00Z,10,New England Patriots,away,28,23,Tampa Bay Buccaneers
+401772877,2025-11-09T18:00Z,10,Carolina Panthers,home,7,17,New Orleans Saints
+401772877,2025-11-09T18:00Z,10,New Orleans Saints,away,17,7,Carolina Panthers
+401772770,2025-11-09T18:00Z,10,Houston Texans,home,36,29,Jacksonville Jaguars
+401772770,2025-11-09T18:00Z,10,Jacksonville Jaguars,away,29,36,Houston Texans
+401772773,2025-11-09T21:05Z,10,Seattle Seahawks,home,44,22,Arizona Cardinals
+401772773,2025-11-09T21:05Z,10,Arizona Cardinals,away,22,44,Seattle Seahawks
+401772879,2025-11-09T21:25Z,10,San Francisco 49ers,home,26,42,Los Angeles Rams
+401772879,2025-11-09T21:25Z,10,Los Angeles Rams,away,42,26,San Francisco 49ers
+401772878,2025-11-09T21:25Z,10,Washington Commanders,home,22,44,Detroit Lions
+401772878,2025-11-09T21:25Z,10,Detroit Lions,away,44,22,Washington Commanders
+401772927,2025-11-10T01:20Z,10,Los Angeles Chargers,home,25,10,Pittsburgh Steelers
+401772927,2025-11-10T01:20Z,10,Pittsburgh Steelers,away,10,25,Los Angeles Chargers
+401772630,2025-11-11T01:15Z,10,Green Bay Packers,home,7,10,Philadelphia Eagles
+401772630,2025-11-11T01:15Z,10,Philadelphia Eagles,away,10,7,Green Bay Packers
+401772945,2025-11-14T01:15Z,11,New England Patriots,home,27,14,New York Jets
+401772945,2025-11-14T01:15Z,11,New York Jets,away,14,27,New England Patriots
+401772631,2025-11-16T14:30Z,11,Miami Dolphins,home,16,13,Washington Commanders
+401772631,2025-11-16T14:30Z,11,Washington Commanders,away,13,16,Miami Dolphins
+401772882,2025-11-16T18:00Z,11,Atlanta Falcons,home,27,30,Carolina Panthers
+401772882,2025-11-16T18:00Z,11,Carolina Panthers,away,30,27,Atlanta Falcons
+401772776,2025-11-16T18:00Z,11,Buffalo Bills,home,44,32,Tampa Bay Buccaneers
+401772776,2025-11-16T18:00Z,11,Tampa Bay Buccaneers,away,32,44,Buffalo Bills
+401772881,2025-11-16T18:00Z,11,Tennessee Titans,home,13,16,Houston Texans
+401772881,2025-11-16T18:00Z,11,Houston Texans,away,16,13,Tennessee Titans
+401772880,2025-11-16T18:00Z,11,Minnesota Vikings,home,17,19,Chicago Bears
+401772880,2025-11-16T18:00Z,11,Chicago Bears,away,19,17,Minnesota Vikings
+401772883,2025-11-16T18:00Z,11,New York Giants,home,20,27,Green Bay Packers
+401772883,2025-11-16T18:00Z,11,Green Bay Packers,away,27,20,New York Giants
+401772774,2025-11-16T18:00Z,11,Pittsburgh Steelers,home,34,12,Cincinnati Bengals
+401772774,2025-11-16T18:00Z,11,Cincinnati Bengals,away,12,34,Pittsburgh Steelers
+401772775,2025-11-16T18:00Z,11,Jacksonville Jaguars,home,35,6,Los Angeles Chargers
+401772775,2025-11-16T18:00Z,11,Los Angeles Chargers,away,6,35,Jacksonville Jaguars
+401772884,2025-11-16T21:05Z,11,Los Angeles Rams,home,21,19,Seattle Seahawks
+401772884,2025-11-16T21:05Z,11,Seattle Seahawks,away,19,21,Los Angeles Rams
+401772885,2025-11-16T21:05Z,11,Arizona Cardinals,home,22,41,San Francisco 49ers
+401772885,2025-11-16T21:05Z,11,San Francisco 49ers,away,41,22,Arizona Cardinals
+401772777,2025-11-16T21:25Z,11,Cleveland Browns,home,16,23,Baltimore Ravens
+401772777,2025-11-16T21:25Z,11,Baltimore Ravens,away,23,16,Cleveland Browns
+401772778,2025-11-16T21:25Z,11,Denver Broncos,home,22,19,Kansas City Chiefs
+401772778,2025-11-16T21:25Z,11,Kansas City Chiefs,away,19,22,Denver Broncos
+401772928,2025-11-17T01:20Z,11,Philadelphia Eagles,home,16,9,Detroit Lions
+401772928,2025-11-17T01:20Z,11,Detroit Lions,away,9,16,Philadelphia Eagles
+401772819,2025-11-18T01:15Z,11,Las Vegas Raiders,home,16,33,Dallas Cowboys
+401772819,2025-11-18T01:15Z,11,Dallas Cowboys,away,33,16,Las Vegas Raiders
+401772946,2025-11-21T01:15Z,12,Houston Texans,home,23,19,Buffalo Bills
+401772946,2025-11-21T01:15Z,12,Buffalo Bills,away,19,23,Houston Texans
+401772780,2025-11-23T18:00Z,12,Chicago Bears,home,31,28,Pittsburgh Steelers
+401772780,2025-11-23T18:00Z,12,Pittsburgh Steelers,away,28,31,Chicago Bears
+401772781,2025-11-23T18:00Z,12,Cincinnati Bengals,home,20,26,New England Patriots
+401772781,2025-11-23T18:00Z,12,New England Patriots,away,26,20,Cincinnati Bengals
+401772888,2025-11-23T18:00Z,12,Detroit Lions,home,34,27,New York Giants
+401772888,2025-11-23T18:00Z,12,New York Giants,away,27,34,Detroit Lions
+401772887,2025-11-23T18:00Z,12,Green Bay Packers,home,23,6,Minnesota Vikings
+401772887,2025-11-23T18:00Z,12,Minnesota Vikings,away,6,23,Green Bay Packers
+401772886,2025-11-23T18:00Z,12,Tennessee Titans,home,24,30,Seattle Seahawks
+401772886,2025-11-23T18:00Z,12,Seattle Seahawks,away,30,24,Tennessee Titans
+401772779,2025-11-23T18:00Z,12,Kansas City Chiefs,home,23,20,Indianapolis Colts
+401772779,2025-11-23T18:00Z,12,Indianapolis Colts,away,20,23,Kansas City Chiefs
+401772782,2025-11-23T18:00Z,12,Baltimore Ravens,home,23,10,New York Jets
+401772782,2025-11-23T18:00Z,12,New York Jets,away,10,23,Baltimore Ravens
+401772784,2025-11-23T21:05Z,12,Las Vegas Raiders,home,10,24,Cleveland Browns
+401772784,2025-11-23T21:05Z,12,Cleveland Browns,away,24,10,Las Vegas Raiders
+401772783,2025-11-23T21:05Z,12,Arizona Cardinals,home,24,27,Jacksonville Jaguars
+401772783,2025-11-23T21:05Z,12,Jacksonville Jaguars,away,27,24,Arizona Cardinals
+401772890,2025-11-23T21:25Z,12,Dallas Cowboys,home,24,21,Philadelphia Eagles
+401772890,2025-11-23T21:25Z,12,Philadelphia Eagles,away,21,24,Dallas Cowboys
+401772889,2025-11-23T21:25Z,12,New Orleans Saints,home,10,24,Atlanta Falcons
+401772889,2025-11-23T21:25Z,12,Atlanta Falcons,away,24,10,New Orleans Saints
+401772929,2025-11-24T01:20Z,12,Los Angeles Rams,home,34,7,Tampa Bay Buccaneers
+401772929,2025-11-24T01:20Z,12,Tampa Bay Buccaneers,away,7,34,Los Angeles Rams
+401772820,2025-11-25T01:15Z,12,San Francisco 49ers,home,20,9,Carolina Panthers
+401772820,2025-11-25T01:15Z,12,Carolina Panthers,away,9,20,San Francisco 49ers
+401772891,2025-11-27T18:00Z,13,Detroit Lions,home,24,31,Green Bay Packers
+401772891,2025-11-27T18:00Z,13,Green Bay Packers,away,31,24,Detroit Lions
+401772694,2025-11-27T21:30Z,13,Dallas Cowboys,home,31,28,Kansas City Chiefs
+401772694,2025-11-27T21:30Z,13,Kansas City Chiefs,away,28,31,Dallas Cowboys
+401772930,2025-11-28T01:20Z,13,Baltimore Ravens,home,14,32,Cincinnati Bengals
+401772930,2025-11-28T01:20Z,13,Cincinnati Bengals,away,32,14,Baltimore Ravens
+401772621,2025-11-28T20:00Z,13,Philadelphia Eagles,home,15,24,Chicago Bears
+401772621,2025-11-28T20:00Z,13,Chicago Bears,away,24,15,Philadelphia Eagles
+401772785,2025-11-30T18:00Z,13,Cleveland Browns,home,8,26,San Francisco 49ers
+401772785,2025-11-30T18:00Z,13,San Francisco 49ers,away,26,8,Cleveland Browns
+401772786,2025-11-30T18:00Z,13,Tennessee Titans,home,3,25,Jacksonville Jaguars
+401772786,2025-11-30T18:00Z,13,Jacksonville Jaguars,away,25,3,Tennessee Titans
+401772787,2025-11-30T18:00Z,13,Indianapolis Colts,home,16,20,Houston Texans
+401772787,2025-11-30T18:00Z,13,Houston Texans,away,20,16,Indianapolis Colts
+401772892,2025-11-30T18:00Z,13,Miami Dolphins,home,21,17,New Orleans Saints
+401772892,2025-11-30T18:00Z,13,New Orleans Saints,away,17,21,Miami Dolphins
+401772893,2025-11-30T18:00Z,13,New York Jets,home,27,24,Atlanta Falcons
+401772893,2025-11-30T18:00Z,13,Atlanta Falcons,away,24,27,New York Jets
+401772895,2025-11-30T18:00Z,13,Tampa Bay Buccaneers,home,20,17,Arizona Cardinals
+401772895,2025-11-30T18:00Z,13,Arizona Cardinals,away,17,20,Tampa Bay Buccaneers
+401772894,2025-11-30T18:00Z,13,Carolina Panthers,home,31,28,Los Angeles Rams
+401772894,2025-11-30T18:00Z,13,Los Angeles Rams,away,28,31,Carolina Panthers
+401772896,2025-11-30T21:05Z,13,Seattle Seahawks,home,26,0,Minnesota Vikings
+401772896,2025-11-30T21:05Z,13,Minnesota Vikings,away,0,26,Seattle Seahawks
+401772789,2025-11-30T21:25Z,13,Pittsburgh Steelers,home,7,26,Buffalo Bills
+401772789,2025-11-30T21:25Z,13,Buffalo Bills,away,26,7,Pittsburgh Steelers
+401772788,2025-11-30T21:25Z,13,Los Angeles Chargers,home,31,14,Las Vegas Raiders
+401772788,2025-11-30T21:25Z,13,Las Vegas Raiders,away,14,31,Los Angeles Chargers
+401772931,2025-12-01T01:20Z,13,Washington Commanders,home,26,27,Denver Broncos
+401772931,2025-12-01T01:20Z,13,Denver Broncos,away,27,26,Washington Commanders
+401772821,2025-12-02T01:15Z,13,New England Patriots,home,33,15,New York Giants
+401772821,2025-12-02T01:15Z,13,New York Giants,away,15,33,New England Patriots
+401772947,2025-12-05T01:15Z,14,Detroit Lions,home,44,30,Dallas Cowboys
+401772947,2025-12-05T01:15Z,14,Dallas Cowboys,away,30,44,Detroit Lions
+401772900,2025-12-07T18:00Z,14,Atlanta Falcons,home,9,37,Seattle Seahawks
+401772900,2025-12-07T18:00Z,14,Seattle Seahawks,away,37,9,Atlanta Falcons
+401772902,2025-12-07T18:00Z,14,Buffalo Bills,home,39,34,Cincinnati Bengals
+401772902,2025-12-07T18:00Z,14,Cincinnati Bengals,away,34,39,Buffalo Bills
+401772898,2025-12-07T18:00Z,14,Cleveland Browns,home,29,31,Tennessee Titans
+401772898,2025-12-07T18:00Z,14,Tennessee Titans,away,31,29,Cleveland Browns
+401772899,2025-12-07T18:00Z,14,Minnesota Vikings,home,31,0,Washington Commanders
+401772899,2025-12-07T18:00Z,14,Washington Commanders,away,0,31,Minnesota Vikings
+401772790,2025-12-07T18:00Z,14,New York Jets,home,10,34,Miami Dolphins
+401772790,2025-12-07T18:00Z,14,Miami Dolphins,away,34,10,New York Jets
+401772792,2025-12-07T18:00Z,14,Tampa Bay Buccaneers,home,20,24,New Orleans Saints
+401772792,2025-12-07T18:00Z,14,New Orleans Saints,away,24,20,Tampa Bay Buccaneers
+401772793,2025-12-07T18:00Z,14,Jacksonville Jaguars,home,36,19,Indianapolis Colts
+401772793,2025-12-07T18:00Z,14,Indianapolis Colts,away,19,36,Jacksonville Jaguars
+401772791,2025-12-07T18:00Z,14,Baltimore Ravens,home,22,27,Pittsburgh Steelers
+401772791,2025-12-07T18:00Z,14,Pittsburgh Steelers,away,27,22,Baltimore Ravens
+401772794,2025-12-07T21:05Z,14,Las Vegas Raiders,home,17,24,Denver Broncos
+401772794,2025-12-07T21:05Z,14,Denver Broncos,away,24,17,Las Vegas Raiders
+401772897,2025-12-07T21:25Z,14,Green Bay Packers,home,28,21,Chicago Bears
+401772897,2025-12-07T21:25Z,14,Chicago Bears,away,21,28,Green Bay Packers
+401772901,2025-12-07T21:25Z,14,Arizona Cardinals,home,17,45,Los Angeles Rams
+401772901,2025-12-07T21:25Z,14,Los Angeles Rams,away,45,17,Arizona Cardinals
+401772932,2025-12-08T01:20Z,14,Kansas City Chiefs,home,10,20,Houston Texans
+401772932,2025-12-08T01:20Z,14,Houston Texans,away,20,10,Kansas City Chiefs
+401772822,2025-12-09T01:15Z,14,Los Angeles Chargers,home,22,19,Philadelphia Eagles
+401772822,2025-12-09T01:15Z,14,Philadelphia Eagles,away,19,22,Los Angeles Chargers
+401772948,2025-12-12T01:15Z,15,Tampa Bay Buccaneers,home,28,29,Atlanta Falcons
+401772948,2025-12-12T01:15Z,15,Atlanta Falcons,away,29,28,Tampa Bay Buccaneers
+401772904,2025-12-14T18:00Z,15,Chicago Bears,home,31,3,Cleveland Browns
+401772904,2025-12-14T18:00Z,15,Cleveland Browns,away,3,31,Chicago Bears
+401772796,2025-12-14T18:00Z,15,Cincinnati Bengals,home,0,24,Baltimore Ravens
+401772796,2025-12-14T18:00Z,15,Baltimore Ravens,away,24,0,Cincinnati Bengals
+401772798,2025-12-14T18:00Z,15,Kansas City Chiefs,home,13,16,Los Angeles Chargers
+401772798,2025-12-14T18:00Z,15,Los Angeles Chargers,away,16,13,Kansas City Chiefs
+401772795,2025-12-14T18:00Z,15,New England Patriots,home,31,35,Buffalo Bills
+401772795,2025-12-14T18:00Z,15,Buffalo Bills,away,35,31,New England Patriots
+401772905,2025-12-14T18:00Z,15,New York Giants,home,21,29,Washington Commanders
+401772905,2025-12-14T18:00Z,15,Washington Commanders,away,29,21,New York Giants
+401772906,2025-12-14T18:00Z,15,Philadelphia Eagles,home,31,0,Las Vegas Raiders
+401772906,2025-12-14T18:00Z,15,Las Vegas Raiders,away,0,31,Philadelphia Eagles
+401772797,2025-12-14T18:00Z,15,Jacksonville Jaguars,home,48,20,New York Jets
+401772797,2025-12-14T18:00Z,15,New York Jets,away,20,48,Jacksonville Jaguars
+401772903,2025-12-14T18:00Z,15,Houston Texans,home,40,20,Arizona Cardinals
+401772903,2025-12-14T18:00Z,15,Arizona Cardinals,away,20,40,Houston Texans
+401772800,2025-12-14T21:25Z,15,Denver Broncos,home,34,26,Green Bay Packers
+401772800,2025-12-14T21:25Z,15,Green Bay Packers,away,26,34,Denver Broncos
+401772909,2025-12-14T21:25Z,15,Los Angeles Rams,home,41,34,Detroit Lions
+401772909,2025-12-14T21:25Z,15,Detroit Lions,away,34,41,Los Angeles Rams
+401772908,2025-12-14T21:25Z,15,New Orleans Saints,home,20,17,Carolina Panthers
+401772908,2025-12-14T21:25Z,15,Carolina Panthers,away,17,20,New Orleans Saints
+401772907,2025-12-14T21:25Z,15,San Francisco 49ers,home,37,24,Tennessee Titans
+401772907,2025-12-14T21:25Z,15,Tennessee Titans,away,24,37,San Francisco 49ers
+401772799,2025-12-14T21:25Z,15,Seattle Seahawks,home,18,16,Indianapolis Colts
+401772799,2025-12-14T21:25Z,15,Indianapolis Colts,away,16,18,Seattle Seahawks
+401772933,2025-12-15T01:20Z,15,Dallas Cowboys,home,26,34,Minnesota Vikings
+401772933,2025-12-15T01:20Z,15,Minnesota Vikings,away,34,26,Dallas Cowboys
+401772823,2025-12-16T01:15Z,15,Pittsburgh Steelers,home,28,15,Miami Dolphins
+401772823,2025-12-16T01:15Z,15,Miami Dolphins,away,15,28,Pittsburgh Steelers
+401772949,2025-12-19T01:15Z,16,Seattle Seahawks,home,38,37,Los Angeles Rams
+401772949,2025-12-19T01:15Z,16,Los Angeles Rams,away,37,38,Seattle Seahawks
+401772612,2025-12-20T22:00Z,16,Washington Commanders,home,18,29,Philadelphia Eagles
+401772612,2025-12-20T22:00Z,16,Philadelphia Eagles,away,29,18,Washington Commanders
+401772613,2025-12-21T01:20Z,16,Chicago Bears,home,22,16,Green Bay Packers
+401772613,2025-12-21T01:20Z,16,Green Bay Packers,away,16,22,Chicago Bears
+401772802,2025-12-21T18:00Z,16,Cleveland Browns,home,20,23,Buffalo Bills
+401772802,2025-12-21T18:00Z,16,Buffalo Bills,away,23,20,Cleveland Browns
+401772910,2025-12-21T18:00Z,16,Dallas Cowboys,home,17,34,Los Angeles Chargers
+401772910,2025-12-21T18:00Z,16,Los Angeles Chargers,away,34,17,Dallas Cowboys
+401772803,2025-12-21T18:00Z,16,Tennessee Titans,home,26,9,Kansas City Chiefs
+401772803,2025-12-21T18:00Z,16,Kansas City Chiefs,away,9,26,Tennessee Titans
+401772934,2025-12-21T18:00Z,16,Miami Dolphins,home,21,45,Cincinnati Bengals
+401772934,2025-12-21T18:00Z,16,Cincinnati Bengals,away,45,21,Miami Dolphins
+401772801,2025-12-21T18:00Z,16,New Orleans Saints,home,29,6,New York Jets
+401772801,2025-12-21T18:00Z,16,New York Jets,away,6,29,New Orleans Saints
+401772911,2025-12-21T18:00Z,16,New York Giants,home,13,16,Minnesota Vikings
+401772911,2025-12-21T18:00Z,16,Minnesota Vikings,away,16,13,New York Giants
+401772912,2025-12-21T18:00Z,16,Carolina Panthers,home,23,20,Tampa Bay Buccaneers
+401772912,2025-12-21T18:00Z,16,Tampa Bay Buccaneers,away,20,23,Carolina Panthers
+401772913,2025-12-21T21:05Z,16,Denver Broncos,home,20,34,Jacksonville Jaguars
+401772913,2025-12-21T21:05Z,16,Jacksonville Jaguars,away,34,20,Denver Broncos
+401772914,2025-12-21T21:05Z,16,Arizona Cardinals,home,19,26,Atlanta Falcons
+401772914,2025-12-21T21:05Z,16,Atlanta Falcons,away,26,19,Arizona Cardinals
+401772806,2025-12-21T21:25Z,16,Detroit Lions,home,24,29,Pittsburgh Steelers
+401772806,2025-12-21T21:25Z,16,Pittsburgh Steelers,away,29,24,Detroit Lions
+401772805,2025-12-21T21:25Z,16,Houston Texans,home,23,21,Las Vegas Raiders
+401772805,2025-12-21T21:25Z,16,Las Vegas Raiders,away,21,23,Houston Texans
+401772804,2025-12-22T01:20Z,16,Baltimore Ravens,home,24,28,New England Patriots
+401772804,2025-12-22T01:20Z,16,New England Patriots,away,28,24,Baltimore Ravens
+401772824,2025-12-23T01:15Z,16,Indianapolis Colts,home,27,48,San Francisco 49ers
+401772824,2025-12-23T01:15Z,16,San Francisco 49ers,away,48,27,Indianapolis Colts
+401772710,2025-12-25T18:00Z,17,Washington Commanders,home,23,30,Dallas Cowboys
+401772710,2025-12-25T18:00Z,17,Dallas Cowboys,away,30,23,Washington Commanders
+401772711,2025-12-25T21:30Z,17,Minnesota Vikings,home,23,10,Detroit Lions
+401772711,2025-12-25T21:30Z,17,Detroit Lions,away,10,23,Minnesota Vikings
+401772622,2025-12-26T01:15Z,17,Kansas City Chiefs,home,13,20,Denver Broncos
+401772622,2025-12-26T01:15Z,17,Denver Broncos,away,20,13,Kansas City Chiefs
+401772951,2025-12-27T21:30Z,17,Los Angeles Chargers,home,16,20,Houston Texans
+401772951,2025-12-27T21:30Z,17,Houston Texans,away,20,16,Los Angeles Chargers
+401772953,2025-12-28T01:00Z,17,Green Bay Packers,home,24,41,Baltimore Ravens
+401772953,2025-12-28T01:00Z,17,Baltimore Ravens,away,41,24,Green Bay Packers
+401772954,2025-12-28T18:00Z,17,Cincinnati Bengals,home,37,14,Arizona Cardinals
+401772954,2025-12-28T18:00Z,17,Arizona Cardinals,away,14,37,Cincinnati Bengals
+401772807,2025-12-28T18:00Z,17,Cleveland Browns,home,13,6,Pittsburgh Steelers
+401772807,2025-12-28T18:00Z,17,Pittsburgh Steelers,away,6,13,Cleveland Browns
+401772809,2025-12-28T18:00Z,17,Tennessee Titans,home,26,34,New Orleans Saints
+401772809,2025-12-28T18:00Z,17,New Orleans Saints,away,34,26,Tennessee Titans
+401772915,2025-12-28T18:00Z,17,Indianapolis Colts,home,17,23,Jacksonville Jaguars
+401772915,2025-12-28T18:00Z,17,Jacksonville Jaguars,away,23,17,Indianapolis Colts
+401772916,2025-12-28T18:00Z,17,Miami Dolphins,home,20,17,Tampa Bay Buccaneers
+401772916,2025-12-28T18:00Z,17,Tampa Bay Buccaneers,away,17,20,Miami Dolphins
+401772808,2025-12-28T18:00Z,17,New York Jets,home,10,42,New England Patriots
+401772808,2025-12-28T18:00Z,17,New England Patriots,away,42,10,New York Jets
+401772952,2025-12-28T18:00Z,17,Carolina Panthers,home,10,27,Seattle Seahawks
+401772952,2025-12-28T18:00Z,17,Seattle Seahawks,away,27,10,Carolina Panthers
+401772950,2025-12-28T21:05Z,17,Las Vegas Raiders,home,10,34,New York Giants
+401772950,2025-12-28T21:05Z,17,New York Giants,away,34,10,Las Vegas Raiders
+401772917,2025-12-28T21:25Z,17,Buffalo Bills,home,12,13,Philadelphia Eagles
+401772917,2025-12-28T21:25Z,17,Philadelphia Eagles,away,13,12,Buffalo Bills
+401772935,2025-12-29T01:20Z,17,San Francisco 49ers,home,42,38,Chicago Bears
+401772935,2025-12-29T01:20Z,17,Chicago Bears,away,38,42,San Francisco 49ers
+401772825,2025-12-30T01:15Z,17,Atlanta Falcons,home,27,24,Los Angeles Rams
+401772825,2025-12-30T01:15Z,17,Los Angeles Rams,away,24,27,Atlanta Falcons
+401772969,2026-01-03T21:30Z,18,Tampa Bay Buccaneers,home,16,14,Carolina Panthers
+401772969,2026-01-03T21:30Z,18,Carolina Panthers,away,14,16,Tampa Bay Buccaneers
+401772961,2026-01-04T01:00Z,18,San Francisco 49ers,home,3,13,Seattle Seahawks
+401772961,2026-01-04T01:00Z,18,Seattle Seahawks,away,13,3,San Francisco 49ers
+401772966,2026-01-04T18:00Z,18,Atlanta Falcons,home,19,17,New Orleans Saints
+401772966,2026-01-04T18:00Z,18,New Orleans Saints,away,17,19,Atlanta Falcons
+401772964,2026-01-04T18:00Z,18,Cincinnati Bengals,home,18,20,Cleveland Browns
+401772964,2026-01-04T18:00Z,18,Cleveland Browns,away,20,18,Cincinnati Bengals
+401772968,2026-01-04T18:00Z,18,Minnesota Vikings,home,16,3,Green Bay Packers
+401772968,2026-01-04T18:00Z,18,Green Bay Packers,away,3,16,Minnesota Vikings
+401772963,2026-01-04T18:00Z,18,New York Giants,home,34,17,Dallas Cowboys
+401772963,2026-01-04T18:00Z,18,Dallas Cowboys,away,17,34,New York Giants
+401772970,2026-01-04T18:00Z,18,Jacksonville Jaguars,home,41,7,Tennessee Titans
+401772970,2026-01-04T18:00Z,18,Tennessee Titans,away,7,41,Jacksonville Jaguars
+401772962,2026-01-04T18:00Z,18,Houston Texans,home,38,30,Indianapolis Colts
+401772962,2026-01-04T18:00Z,18,Indianapolis Colts,away,30,38,Houston Texans
+401772967,2026-01-04T21:25Z,18,Buffalo Bills,home,35,8,New York Jets
+401772967,2026-01-04T21:25Z,18,New York Jets,away,8,35,Buffalo Bills
+401772965,2026-01-04T21:25Z,18,Chicago Bears,home,16,19,Detroit Lions
+401772965,2026-01-04T21:25Z,18,Detroit Lions,away,19,16,Chicago Bears
+401772956,2026-01-04T21:25Z,18,Denver Broncos,home,19,3,Los Angeles Chargers
+401772956,2026-01-04T21:25Z,18,Los Angeles Chargers,away,3,19,Denver Broncos
+401772957,2026-01-04T21:25Z,18,Las Vegas Raiders,home,14,12,Kansas City Chiefs
+401772957,2026-01-04T21:25Z,18,Kansas City Chiefs,away,12,14,Las Vegas Raiders
+401772955,2026-01-04T21:25Z,18,Los Angeles Rams,home,37,20,Arizona Cardinals
+401772955,2026-01-04T21:25Z,18,Arizona Cardinals,away,20,37,Los Angeles Rams
+401772958,2026-01-04T21:25Z,18,New England Patriots,home,38,10,Miami Dolphins
+401772958,2026-01-04T21:25Z,18,Miami Dolphins,away,10,38,New England Patriots
+401772959,2026-01-04T21:25Z,18,Philadelphia Eagles,home,17,24,Washington Commanders
+401772959,2026-01-04T21:25Z,18,Washington Commanders,away,24,17,Philadelphia Eagles
+401772960,2026-01-05T01:20Z,18,Pittsburgh Steelers,home,26,24,Baltimore Ravens
+401772960,2026-01-05T01:20Z,18,Baltimore Ravens,away,24,26,Pittsburgh Steelers
